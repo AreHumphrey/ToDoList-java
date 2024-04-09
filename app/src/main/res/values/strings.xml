@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Заметки</string>
+    <string name="about">О</string>
+    <string name="add">Добавить</string>
+    <string name="close">Закрыть</string>
+    <string name="confirmation">Подтверждение</string>
+    <string name="copy">Скопировать</string>
+    <string name="delete">Удалить</string>
+    <string name="description">Описание</string>
+    <string name="error">Ошибка</string>
+    <string name="errorReadTaskFile">Не удается прочитать файл задачи.</string>
+    <string name="errorSaveData">Не удается сохранить данные в памяти</string>
+    <string name="errorTitleEmpty">Заголовок не может быть пустым</string>
+    <string name="no">Нет</string>
+    <string name="orange">Orange</string>
+    <string name="poweredBy">Powered by &lt;kastor.code/&gt;</string>
+    <string name="purple">Purple</string>
+    <string name="success">Успешно</string>
+    <string name="successAdd">Успешно добавлен</string>
+    <string name="theme">Theme</string>
+    <string name="title">Название</string>
+    <string name="view">Просмотр</string>
+    <string name="wantDelete">Вы уверены, что хотите удалить?</string>
+    <string name="yes">Да</string>
+</resources>
